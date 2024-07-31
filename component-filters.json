@@ -27,7 +27,14 @@
       "title",
       "hero",
       "cards",
+      "my-related-products",
       "columns"
+    ]
+  },
+  {
+    "id": "my-related-products",
+    "components": [
+      "product"
     ]
   },
   {

@@ -149,6 +149,29 @@
     ]
   },
   {
+    "id": "my-related-products",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "classname",
+        "label": "Class Name",
+        "multi": true
+      }
+    ]
+  },
+  {
+    "id": "product",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "productname",
+        "label": "Product Name"
+      }
+    ]
+  },
+  {
     "id": "section",
     "fields": [
       {
