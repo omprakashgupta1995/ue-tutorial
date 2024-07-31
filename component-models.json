@@ -167,7 +167,8 @@
         "component": "text",
         "valueType": "string",
         "name": "productname",
-        "label": "Product Name"
+        "label": "Product Name",
+        "multi": true
       }
     ]
   },
